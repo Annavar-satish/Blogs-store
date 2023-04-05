@@ -3,3 +3,8 @@ https://dev.to/leandronsp/kubernetes-101-part-ii-pods-19pb
 https://dev.to/leandronsp/kubernetes-101-part-iii-controllers-and-self-healing-4ki5
 https://dev.to/leandronsp/kubernetes-101-part-iv-deployments-20m3
 https://itnext.io/working-with-the-kubernetes-api-587bc5941992
+https://www.redhat.com/sysadmin/low-cost-openshift-cluster
+https://opensource.com/article/23/3/crossplane-okteto-develop-kubernetes
+https://techwithsandhya.hashnode.dev/devops90dayschallenge-1-1-1-1-1-1-1-1-1-1-1
+https://thenewstack.io/deploy-kubesphere-for-easy-kubernetes-cluster-management/
+https://sysdig.com/blog/kubernetes-1-27-whats-new/

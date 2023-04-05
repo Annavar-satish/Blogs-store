@@ -39,3 +39,4 @@ https://dev.to/aurelievache/understanding-docker-part-39-sbom-3346
 https://dev.to/aurelievache/understanding-docker-part-40-docker-compose-inl
 https://dev.to/aurelievache/understanding-docker-part-41-dockerfile-tips-multi-stages-build-23ck
 https://dev.to/pavanbelagatti/learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282
+https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/
