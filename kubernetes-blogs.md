@@ -8,3 +8,4 @@ https://opensource.com/article/23/3/crossplane-okteto-develop-kubernetes
 https://techwithsandhya.hashnode.dev/devops90dayschallenge-1-1-1-1-1-1-1-1-1-1-1
 https://thenewstack.io/deploy-kubesphere-for-easy-kubernetes-cluster-management/
 https://sysdig.com/blog/kubernetes-1-27-whats-new/
+https://www.sentinelone.com/blog/mastering-kubernetes-security-top-strategies-recommended-by-owasp-2/
